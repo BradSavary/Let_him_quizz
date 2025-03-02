@@ -25,15 +25,11 @@
 - **PHP**: Creation of an API.
 
 ## Installation & Execution
-1. git clone https://github.com/bastienggg/let-him-quizz.git
+1. git clone https://github.com/BradSavary/Let_him_quizz.git
    ```bash
    git clone https://github.com/bastienggg/Let_him_quizz.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd let-him-quizz
-   ```
-3. Open the `landingpage.html` file.
+2. Download the let_him_quizz.sql doc
 
 ## Objective
 Accumulate as much money as possible by answering questions correctly. And risk it all by betting what you've earned to try to win the jackpot !
